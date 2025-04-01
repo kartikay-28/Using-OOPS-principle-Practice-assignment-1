@@ -1,0 +1,4 @@
+Log 1: Alice borrowed The Great Gatsby.
+Log 2: The Great Gatsby is not available.
+Log 3: Alice returned The Great Gatsby.
+Log 4: Bob borrowed The Great Gatsby.
